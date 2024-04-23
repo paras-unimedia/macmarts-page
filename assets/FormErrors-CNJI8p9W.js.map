@@ -1,0 +1,1 @@
+{"version":3,"file":"FormErrors-CNJI8p9W.js","sources":["../../src/app/constants/FormErrors.ts"],"sourcesContent":["export const EMPTY_ERROR_MESSAGE = 'EMPTY_ERROR_MESSAGE';\nexport const NOT_VALID_URL = 'NOT_VALID_URL';\n"],"names":["EMPTY_ERROR_MESSAGE","NOT_VALID_URL"],"mappings":"mVAAO,MAAMA,EAAsB,sBACtBC,EAAgB"}
